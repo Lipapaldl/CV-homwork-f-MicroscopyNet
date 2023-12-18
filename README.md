@@ -1,4 +1,5 @@
 Dataset:https://www.kaggle.com/datasets/joebeachcapital/defungi
+Demo - Vidio ： https://www.bilibili.com/video/BV1UN4y1b7ZM
 
 Abstract
 This paper presents a novel model,MicroscopyNet, which
